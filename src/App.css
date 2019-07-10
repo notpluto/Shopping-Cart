@@ -1,0 +1,62 @@
+.light:hover {
+	border: 1px solid #EEEEEE;	
+}
+.addCart:hover {
+	background: #EAC043;
+}
+#item-sort {
+	height: 2rem;
+	width: 10rem;
+	outline: 0;
+}
+.sort-list{
+	display: flex;
+	justify-content: space-between;
+	font-size: 12px;
+}
+label {
+	font-size: 14px;
+}
+select {
+	background: #fff;
+	font-size: 14px;
+}
+.title {
+	text-align: center;
+}
+.product-size {
+	border-radius: 50%;
+	height: 35px;
+	width: 35px;
+	font-size: 0.7rem;
+	background: #ECECEC;
+	cursor: pointer;
+	outline: 0;
+	margin: 10px;
+	/*padding: 10px;*/
+	display: inline-block;
+}
+.product-size:focus{
+	background: black;
+	color: #fff;
+}
+.fa-github {
+	padding: 10px;
+}
+.shipping{
+	background: black;
+	font-size: 8px;
+	width: 5rem;
+	text-transform: bold;
+	color: #fff;
+	padding: 6px 10px;
+	/*margin-bottom: 4px;*/
+}
+.fa-cart-arrow-down {
+	padding: 0;
+	outline: 0;
+}
+.test{
+	margin-top: 4px;
+}
+
